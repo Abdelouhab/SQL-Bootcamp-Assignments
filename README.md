@@ -12,12 +12,14 @@ This repository contains my assignments and projects from **The Complete SQL Boo
 
 ### Assignment 2: Data Manipulation and Aggregation
 **Description:** In this assignment, we dive deeper into data manipulation using SQL. It covers inserting, updating, and deleting records in a database. Additionally, it explores aggregate functions to calculate summary statistics.
+
 **Files:**
 - `assignment2.sql`: SQL script with data manipulation and aggregation queries.
 - `README.md`: Instructions and explanations for running the queries and interpreting the results.
 
 ### Assignment 3: Advanced SQL Concepts
 **Description:** This assignment delves into advanced SQL concepts, including joins, subqueries, and views. It demonstrates how to combine data from multiple tables, perform complex queries, and create reusable views.
+
 **Files:**
 - `assignment3.sql`: SQL script containing advanced SQL queries and view definitions.
 - `README.md`: Instructions and explanations for executing the queries and utilizing the views.
