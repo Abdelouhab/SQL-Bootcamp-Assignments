@@ -6,6 +6,7 @@ This repository contains my assignments and projects from **The Complete SQL Boo
 
 ### Assignment 1: Introduction to SQL
 **Description:** This assignment focuses on basic SQL queries, such as selecting data from tables, filtering rows, and sorting results. It covers the foundational concepts of SQL syntax and query execution.
+
 **Files:**
 - `assignment1.sql`: SQL script containing the queries for Assignment 1.
 - `README.md`: Instructions and explanations for running the queries and understanding the results.
