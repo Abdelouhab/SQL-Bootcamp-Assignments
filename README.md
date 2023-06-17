@@ -33,7 +33,7 @@ To run the SQL queries and interact with the assignments, follow these steps:
 
    git clone https://github.com/your-username/SQL-Bootcamp-Assignments.git
 
-2. Install a relational database management system (RDBMS) such as MySQL, PostgreSQL, or SQLite.
+2. Install a relational database management system (RDBMS) such as PostgreSQL.
 
 3. Execute the SQL scripts for each assignment using a database client or command-line interface.
 
