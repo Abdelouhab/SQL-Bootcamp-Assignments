@@ -45,4 +45,4 @@ To run the SQL queries and interact with the assignments, follow these steps:
 
 ## Acknowledgments
 
-I would like to express my gratitude to Jose Portilla the instructors and creators of **The Complete SQL Bootcamp: Go from Zero to Hero** course for his valuable content and guidance throughout the learning journey.
+I would like to express my gratitude to Jose Portilla the instructor and creator of **The Complete SQL Bootcamp: Go from Zero to Hero** course for his valuable content and guidance throughout the learning journey.
