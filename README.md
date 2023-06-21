@@ -31,13 +31,15 @@ To run the SQL queries and interact with the assignments, follow these steps:
 
 1. Clone the repository to your local machine using the following command:
 
-   git clone https://github.com/your-username/SQL-Bootcamp-Assignments.git
+   git clone https://github.com/Abdelouhab/SQL-Bootcamp-Assignments.git
 
-2. Install a relational database management system (RDBMS) such as PostgreSQL.
+2. Install a relational database management system (RDBMS) such as PostgreSQL (the one I used).
 
-3. Execute the SQL scripts for each assignment using a database client or command-line interface.
+3. Upload the Database `dvdrental.tar` and `exercises.tar` into PostgreSQL.
+  
+4. Execute the SQL scripts for each assignment using a database client or command-line interface.
 
-4. Refer to the respective README files within each assignment folder for specific instructions and insights on the queries and results.
+5. Refer to the respective README files within each assignment folder for specific instructions and insights on the queries and results.
 
 ## Course Information
 
