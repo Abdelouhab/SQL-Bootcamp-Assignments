@@ -35,7 +35,7 @@ To run the SQL queries and interact with the assignments, follow these steps:
 
 2. Install a relational database management system (RDBMS) such as PostgreSQL (the one I used).
 
-3. Upload the Database `dvdrental.tar` and `exercises.tar` into PostgreSQL.
+3. Upload Database files `dvdrental.tar`, `exercises.tar` into PostgreSQL.
   
 4. Execute the SQL scripts for each assignment using a database client or command-line interface.
 
