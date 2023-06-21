@@ -8,22 +8,22 @@ This repository contains my assignments and projects from **The Complete SQL Boo
 **Description:** This assignment focuses on basic SQL queries, such as selecting data from tables, filtering rows, and sorting results. It covers the foundational concepts of SQL syntax and query execution.
 
 **Files:**
-- `ASSESSMENT 1.pdf`: SQL script containing the queries for Assignment 1.
-- `SOLUTIONS ASSESSMENT 1.pdf`: Instructions and explanations for running the queries and understanding the results.
+- `ASSESSMENT 1.pdf`: SQL script containing the queries for Assessment 1 with expected results.
+- `SOLUTIONS ASSESSMENT 1.pdf`: Instructions for running the queries and understanding the results.
 
 ### Assessment 2: Data Manipulation and Aggregation
 **Description:** In this assignment, we dive deeper into data manipulation using SQL. It covers inserting, updating, and deleting records in a database. Additionally, it explores aggregate functions to calculate summary statistics.
 
 **Files:**
-- `ASSESSMENT 2.pdf`: SQL script with data manipulation and aggregation queries.
-- `SOLUTIONS ASSESSMENT 2.pdf`: Instructions and explanations for running the queries and interpreting the results.
+- `ASSESSMENT 2.pdf`: SQL script with data manipulation and aggregation queries for Assessment 2 with expected results.
+- `SOLUTIONS ASSESSMENT 2.pdf`: Instructions for running the queries and interpreting the results.
 
 ### Assessment 3: Advanced SQL Concepts
 **Description:** This assignment delves into advanced SQL concepts, including joins, subqueries, and views. It demonstrates how to combine data from multiple tables, perform complex queries, and create reusable views.
 
 **Files:**
 - `ASSESSMENT 3.pdf`: SQL script containing advanced SQL queries and view definitions.
-- `SOLUTIONS ASSESSMENT 3.pdf`: Instructions and explanations for executing the queries and utilizing the views.
+- `SOLUTIONS ASSESSMENT 3.pdf`: Instructions for executing the queries and utilizing the views.
 
 ## Getting Started
 
