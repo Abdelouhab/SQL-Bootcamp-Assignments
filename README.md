@@ -2,23 +2,23 @@
 
 This repository contains my assignments and projects from **The Complete SQL Bootcamp: Go from Zero to Hero** course. The course provided comprehensive training in SQL (Structured Query Language), covering essential concepts and techniques for working with relational databases.
 
-## Assignments
+## Assessments
 
-### Assignment 1: Introduction to SQL
+### Assessment 1: Introduction to SQL
 **Description:** This assignment focuses on basic SQL queries, such as selecting data from tables, filtering rows, and sorting results. It covers the foundational concepts of SQL syntax and query execution.
 
 **Files:**
 - `assignment1.sql`: SQL script containing the queries for Assignment 1.
 - `README.md`: Instructions and explanations for running the queries and understanding the results.
 
-### Assignment 2: Data Manipulation and Aggregation
+### Assessment 2: Data Manipulation and Aggregation
 **Description:** In this assignment, we dive deeper into data manipulation using SQL. It covers inserting, updating, and deleting records in a database. Additionally, it explores aggregate functions to calculate summary statistics.
 
 **Files:**
 - `assignment2.sql`: SQL script with data manipulation and aggregation queries.
 - `README.md`: Instructions and explanations for running the queries and interpreting the results.
 
-### Assignment 3: Advanced SQL Concepts
+### Assessment 3: Advanced SQL Concepts
 **Description:** This assignment delves into advanced SQL concepts, including joins, subqueries, and views. It demonstrates how to combine data from multiple tables, perform complex queries, and create reusable views.
 
 **Files:**
